@@ -1,1 +1,3 @@
-baseurl: /MyBlog
+theme: jekyll-theme-minimal
+title: niool's homepage
+description: An eye looking at the world...
